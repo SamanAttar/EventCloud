@@ -1,0 +1,20 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "EventCloud",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": ""
+    }
+  ],
+  "name": "EventCloud",
+  "namespace": "CAMPX",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0",
+  "packageAliases": {
+    "EventCloud": "0Ho8a000000KyzCCAS",
+    "EventCloud@0.1.0-1": "04t8a000001JoEJAA0"
+  }
+}
